@@ -13,3 +13,5 @@ This is a responsive website that displays a digital clock with dynamic font and
 - To change the color or direction of the gradient background, you can edit the background-image property in the style.css file.
 - To change the color or blur radius of the text-shadow, you can edit the text-shadow property in the style.css file.
 - To change the font family or weight of the text, you can edit the font-family and font-weight properties in the style.css file.
+## Try it out
+Try this website by clicking [here](https://harshit2012.github.io/Digital_Clock/)
