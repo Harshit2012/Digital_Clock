@@ -6,7 +6,6 @@ This is a responsive website that displays a digital clock with dynamic font and
 - The website updates the time every second using JS.
 - The website uses a linear-gradient background and a text-shadow effect to create a cool look.
 - The website uses Bootstrap to make the layout responsive and adapt to different screen sizes.
-- The website uses viewport units, calc() function, and media queries to make the font size dynamic and responsive.
 ## How to use
 - To view the website, you can open the index.html file in your browser.
 - To edit the website, you can use any code editor of your choice and modify the index.html, style.css, and main.js files.
